@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tobias Heymann</h1>
 <h3 align="center">A passionate web and mobile developer from Germany</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **TobiasHeymann/TobiasHeymann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
